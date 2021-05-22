@@ -30,14 +30,8 @@
 **argomento**: terroni  
 **regex:** /terron[e|a|i]/i
 
-**argomento**: rhythm of the night  
-**regex:** /rhythm of the night/i
-
 **argomento**: non è possibile  
 **regex:** /^(ma )?(non )?(può )?(e |è |e' |essere )?(impossibile|possibile|vero)/i
-
-**argomento**: rhythm of the night  
-**regex:** /rhythm of the night/i
 
 **argomento**: morto  
 **regex:** /^((secondo me )?sono |è |(potrebbe |potrebbero )?essere |)?mort[o|a|i|e]/i
