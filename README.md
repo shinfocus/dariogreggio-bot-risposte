@@ -34,7 +34,7 @@
 **regex:** /^(ma )?(non )?(può )?(e |è |e' |essere )?(impossibile|possibile|vero)/i
 
 **argomento**: morto  
-**regex:** /^((secondo me )?sono |è |(potrebbe |potrebbero )?essere |)?mort[o|a|i|e]/i
+**regex:** /^^((secondo me )?sono |è |(potrebbe |potrebbero )?essere |)?mort[o|a|i|e]|^sto (morendo|crepando)/i
 
 **argomento**: godo  
 **regex:** /^(io |e io |e |sto )?(godo|godendo)/i
