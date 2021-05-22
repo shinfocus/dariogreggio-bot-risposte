@@ -1,74 +1,74 @@
 # Lista risposte
 
-**argomento**: berlusconi
+**argomento**: berlusconi  
 **regex:** /berlusconi/i
 
-**argomento**: dario greggio
+**argomento**: dario greggio  
 **regex:** /dario greggio|dariogreggio/i
 
-**argomento**: aaaaa
+**argomento**: aaaaa  
 **regex**: /^aaaa/i
 
-**argomento**: calabresi
+**argomento**: calabresi  
 **regex:** /calabres[e|i]/i
 
-**argomento**: bambini morti
+**argomento**: bambini morti  
 **regex:** /bambin[o|i|a|e] mort[o|i|a|e]/i
 
-**argomento**: carabinieri
+**argomento**: carabinieri  
 **regex:** /carabinier[e|i|a]|maresciallo/i
 
-**argomento**: segoni a due mani
+**argomento**: segoni a due mani  
 **regex:** /segoni a due mani|seg(a|he) a due mani/i
 
-**argomento**: rhythm of the night
+**argomento**: rhythm of the night  
 **regex:** /rhythm of the night/i
 
-**argomento**: masturbazione
+**argomento**: masturbazione  
 **regex:** /masturbazione/i
 
-**argomento**: terroni
+**argomento**: terroni  
 **regex:** /terron[e|a|i]/i
 
-**argomento**: rhythm of the night
+**argomento**: rhythm of the night  
 **regex:** /rhythm of the night/i
 
-**argomento**: non è possibile
+**argomento**: non è possibile  
 **regex:** /^(ma )?(non )?(può )?(e |è |e' |essere )?(impossibile|possibile|vero)/i
 
-**argomento**: rhythm of the night
+**argomento**: rhythm of the night  
 **regex:** /rhythm of the night/i
 
-**argomento**: morto
+**argomento**: morto  
 **regex:** /^((secondo me )?sono |è |(potrebbe |potrebbero )?essere |)?mort[o|a|i|e]/i
 
-**argomento**: godo
+**argomento**: godo  
 **regex:** /^(io |e io |e |sto )?(godo|godendo)/i
 
-**argomento**: umani
+**argomento**: umani  
 **regex:** /esser[e|i] uman[o|i]|uman[o|i]/i
 
-**argomento**: chi ti conosce
+**argomento**: chi ti conosce  
 **regex:** /chi (cazzo )?ti conosce|non ti conosc[o|e]/i
 
-**argomento**: auguri
+**argomento**: auguri  
 **regex:** /auguri|congratulazioni|congrats/i
 
 
-**argomento**: brutto tempo
+**argomento**: brutto tempo  
 **regex:** /(brutto|cattivo) tempo|sta piovendo|piove|(ha )?piovuto/i
 
-**argomento**: siiiii
+**argomento**: siiiii  
 **regex:** /^(sì|si|si') cazzo|^cazzo (sì|si')|^siii+|e+vv+a+i+/i
 
-**argomento**: sucami il cazzo
+**argomento**: sucami il cazzo  
 **regex**: /(((dev[i|e|o]|dovrebb(e|ero)|dovrest(i|e)) (leccarmi|succhiarmi|sucarmi|ciucciarmi))|(leccami|succhiami|sucami|ciucciami)) (il|le) (cazzo|palle)|^(ma )?suca$/i
 
-**argomento**: porca madonna
+**argomento**: porca madonna  
 **regex:** /porca[ ]?madonna|ma porco[ ]?dio/i
 
-**argomento**: figli di puttana
+**argomento**: figli di puttana  
 **regex:** /figl(io|ia|i|ie) di (puttana|cagna|troia)/i
 
-**argomento**: segnalami sto cazzo
+**argomento**: segnalami sto cazzo  
 **regex:** /segnalato|segnalare/i
