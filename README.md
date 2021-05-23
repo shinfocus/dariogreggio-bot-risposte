@@ -7,7 +7,7 @@
 **regex:** /dario greggio|dariogreggio/i
 
 **argomento**: aaaaa  
-**regex**: /^aaaa/i
+**regex**: /aaaaaa/i
 
 **argomento**: calabresi  
 **regex:** /calabres[e|i]/i
