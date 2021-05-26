@@ -4,7 +4,7 @@
 **regex:** /berlusconi/i
 
 **argomento**: dario greggio  
-**regex:** /dario greggio|dariogreggio/i
+**regex:** /(?!.*@dariogreggio_bot)dario( )?greggio/i
 
 **argomento**: aaaaa  
 **regex**: /aaaaaa/i
@@ -19,22 +19,22 @@
 **regex:** /carabinier[e|i|a]|maresciallo/i
 
 **argomento**: segoni a due mani  
-**regex:** /segoni a due mani|seg(a|he) a due mani/i
+**regex:** /segoni|seg(a|he)|mi sego/i
 
 **argomento**: rhythm of the night  
-**regex:** /rhythm of the night/i
+**regex:** /rhythm/i
 
 **argomento**: masturbazione  
-**regex:** /masturbazione/i
+**regex:** /masturb[a|o]/i
 
 **argomento**: terroni  
 **regex:** /terron[e|a|i]/i
 
 **argomento**: non è possibile  
-**regex:** /^(ma )?(non )?(può )?(e |è |e' |essere )?(impossibile|possibile|vero)/i
+**regex:** /(ma )?(non )?(può )?(e |è |e' |essere )(impossibile|possibile|vero)/i
 
 **argomento**: morto  
-**regex:** /^((secondo me )?sono |è |(potrebbe |potrebbero )?essere |)?mort[o|a|i|e]|^sto (morendo|crepando)/i
+**regex:** /^((secondo me )?sono |è |(potrebbe |potrebbero )?essere |)?mort[o|a|i|e]|^sto (morendo|crepando)|^(io )?muoio/i
 
 **argomento**: godo  
 **regex:** /^(io |e io |e |sto )?(godo|godendo)/i
@@ -47,7 +47,6 @@
 
 **argomento**: auguri  
 **regex:** /auguri|congratulazioni|congrats/i
-
 
 **argomento**: brutto tempo  
 **regex:** /(brutto|cattivo) tempo|sta piovendo|piove|(ha )?piovuto/i
