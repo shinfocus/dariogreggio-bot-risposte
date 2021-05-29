@@ -4,7 +4,7 @@
 **regex:** /berlusconi/i
 
 **argomento**: dario greggio  
-**regex:** /(?!.*@dariogreggio_bot)dario( )?greggio/i
+**regex:** /dario( )?greggio/i
 
 **argomento**: aaaaa  
 **regex**: /aaaaaa/i
