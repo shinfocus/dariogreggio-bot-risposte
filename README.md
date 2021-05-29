@@ -10,7 +10,7 @@
 **regex**: /aaaaaa/i
 
 **argomento**: calabresi  
-**regex:** /calabres[e|i]/i
+**regex:** /calabres[e|i]|calabria/i
 
 **argomento**: bambini morti  
 **regex:** /bambin[o|i|a|e] mort[o|i|a|e]/i
